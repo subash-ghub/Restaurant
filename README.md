@@ -1,5 +1,6 @@
 # Restaurant :)
 Developed a website using HTML and CSS for restaurant
+Here the customers can order their foods and reserve tables for them.
 <br>
 <br>
 * Here we have create a website for the restaurant MEHFIL<br>
